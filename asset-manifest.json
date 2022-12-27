@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/dedelend-old/static/css/main.8bc3ae80.chunk.css",
+    "main.js": "/dedelend-old/static/js/main.59085d4b.chunk.js",
+    "main.js.map": "/dedelend-old/static/js/main.59085d4b.chunk.js.map",
+    "runtime-main.js": "/dedelend-old/static/js/runtime-main.5c9fb1cc.js",
+    "runtime-main.js.map": "/dedelend-old/static/js/runtime-main.5c9fb1cc.js.map",
+    "static/js/2.1229f944.chunk.js": "/dedelend-old/static/js/2.1229f944.chunk.js",
+    "static/js/2.1229f944.chunk.js.map": "/dedelend-old/static/js/2.1229f944.chunk.js.map",
+    "index.html": "/dedelend-old/index.html",
+    "static/css/main.8bc3ae80.chunk.css.map": "/dedelend-old/static/css/main.8bc3ae80.chunk.css.map",
+    "static/js/2.1229f944.chunk.js.LICENSE.txt": "/dedelend-old/static/js/2.1229f944.chunk.js.LICENSE.txt",
+    "static/media/App.scss": "/dedelend-old/static/media/Gantari-Regular.ed10e76c.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5c9fb1cc.js",
+    "static/js/2.1229f944.chunk.js",
+    "static/css/main.8bc3ae80.chunk.css",
+    "static/js/main.59085d4b.chunk.js"
+  ]
+}
